@@ -13,3 +13,5 @@ Give you the possibility to easily include Dailymotion's video into your posts
 {% dailymotion xme2zs %}
 
 ``` 
+
+This seetings will display http://www.dailymotion.com/video/xme2zs
